@@ -1,0 +1,36 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles />
+    <RecentEdits />
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="private" priority="31" />
+      <Item value="Genetibase" priority="31" />
+      <Item value="NuGenMediImage" priority="53" />
+      <Item value="NuGenMediImageCtrl`0" priority="26" />
+      <Item value="using" priority="61" />
+      <Item value="Genetibase.NuGenMediImage" priority="61" />
+      <Item value="UI" priority="26" />
+      <Item value="Controls" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
